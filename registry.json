@@ -7,7 +7,7 @@
       "description": "常驻托盘 + 全局快捷键",
       "repository": "https://github.com/you/codebee-plugins.git",
       "ref": "main",
-      "path": "MyTray"
+      "path": "com.CodeBee.MyTray"
     }
   ]
 }
