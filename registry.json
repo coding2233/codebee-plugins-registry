@@ -5,7 +5,9 @@
       "id": "com.CodeBee.MyTray",                       
       "name": "My Tray",
       "description": "常驻托盘 + 全局快捷键",
-      "repository": "https://github.com/you/codebee-plugins.git?path=/MyTray#main"
+      "repository": "https://github.com/you/codebee-plugins.git",
+      "ref": "main",
+      "path": "MyTray"
     }
   ]
 }
